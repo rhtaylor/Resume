@@ -1,2 +1,3 @@
-# Resume
-A web resume that is a living document.
+## This is a web Resume
+- hosted by gh-pages
+- built with React 

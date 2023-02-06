@@ -1,0 +1,47 @@
+.fab{
+    font-size: 60px; 
+    
+} 
+@media only screen and (max-width: 360px){
+  .fab{ font-size: 40px;}
+} 
+
+a:active{
+    color: rgb(106, 255, 106)
+} 
+a{
+    color: #fb6161;
+} 
+
+@media only screen and (max-width: 1080px) {
+  a{
+    color: #fb6161;
+} 
+  
+  a:active{
+      color: pink; 
+  }
+} 
+
+.link{
+    width: 15px;
+    padding: 5px; 
+    border-radius: 8px;
+    margin: 2px 2px 2px;
+    background: rgb(127, 163, 187);
+    color: black; } 
+
+    @media only screen and (max-width: 360px){ 
+      .link{
+      width: 15px; 
+      padding: 5px; 
+      border-radius: 8px; 
+      margin: 2px 2px 2px;  
+      background: rgb(127, 163, 187); 
+      color: black; }
+    }
+
+
+ .link:active{
+            background: 'darkblue'
+                }
