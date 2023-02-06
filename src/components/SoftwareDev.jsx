@@ -25,7 +25,7 @@ class SoftwareDev extends Component{
         
         
         <h3>EXPERIENCE</h3>
-            <h4>AWS Cloud Developer-Contractor, Effectual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.effectual.com/" target="_blank">Effectual</a> 03/2022 - 01/2023</h4>
+            <h4>AWS Cloud Developer-Contractor, Effectual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.effectual.com/" target="_blank">Effectual</a> 05/2022 - 01/2023</h4>
             <li>Updated sFTP python script in Docker image to use Checksums and AWS IAM role for better security.</li>
             <li>Deployed AWS ECS Image from terraform AWS CodePipeline, CodeBuild, and CodeDeploy.</li>
             <li>Bash Scripted installation software packages and reboot scripts for new servers to automate upgrade.</li>
