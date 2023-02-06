@@ -6,7 +6,7 @@ import forest from '../css/forest.jpg'
 import forestGif from '../css/littleGif.jpg'
 //import portfolio from '../css/portfolio.css' 
 const BIO = 'Certified AWS Developer Full Stack Software Engineer experienced in Docker, JavaScript, NextJS, Python, and Terraform. I have a passion for solving problems and building functional applications. Possess strong skills in programming, development, creativity, emotional intelligence, delivering clean code in a timely manner, design, teamwork, and effective verbal and written communication.'
-const SKILL = ["Android Development", "Bootstrap", "CRUD API", "CSS", "Docker","ES6", "Github", "HTML", "IOS Development", "JavaScript", "JQuery", "JSON","Mobile","MVC", "Next.js", "PostgreSQL","Python", "React", "Redux", "REST API",  "Ruby", "Ruby On Rails", "SCSS","SQLite", "Sinatra", "Terraform"]
+const SKILL = ["Android Development", "Bootstrap", "CRUD API", "CSS", "Docker","ES6", "Github", "HTML", "IOS Development", "JavaScript", "JQuery", "JSON","Mobile","MVC", "Next.js", "PostgreSQL","Python", "React", "Redux", "REST API",  "Ruby", "Ruby On Rails", "SCSS","Terraform"]
 class SoftwareDev extends Component{
         constructor(props){
             super(props)
@@ -54,7 +54,7 @@ class SoftwareDev extends Component{
                 <li>Wrote React-Redux front-end and Rails back-end allowing seamless dataflow for users.</li>
                 <li>Incorporated Rails API for table relationships to organize data based on associations.</li></ul>
             <h4>Boiling Forest - Github <a href="https://github.com/rhtaylor/tempGradientRailsJsonAPIJS/tree/master/modules/front" target="_blank">Front-End</a> | <a href="https://github.com/rhtaylor/tempGradientRailsJsonAPIJS" target="_blank">Back-End</a></h4>
-            <a href="https://boiling-forest-global-warming.herokuapp.com/" target="_blank"><img height="80px" src={forestGif}></img></a>
+            
 
             <p>As a proof of Global Warming an application that tracks rate of global cooling after sunset.</p>
             <ul><li>Centralizes real weather stations API data in JSON format to track actual global warming.</li>

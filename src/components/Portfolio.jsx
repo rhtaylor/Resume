@@ -20,7 +20,7 @@ export default class Portfolio extends Component{
             <div>
             <h1>BoilingForest</h1>
                 <span className="span_space"><a href="https://github.com/rhtaylor/tempGradientRailsJsonAPIJS" target="_blank"><i className="fab fa-github"></i></a>
-                            <a href="https://boiling-forest-global-warming.herokuapp.com/" target="_blank"><img height="80px" src={forestGif}></img></a>
+                          
                 </span>
                 <p>A proof of Global Warming attributed to green house gas</p>
                 <p>Utilizes a third party API openweathermap for real data</p>
